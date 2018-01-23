@@ -101,3 +101,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+keras-presentation/logs/events.out.tfevents.1516554226.AMENHOTEP
