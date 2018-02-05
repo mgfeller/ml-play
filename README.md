@@ -13,7 +13,7 @@ Create environment from yaml-file:
 Activate the environment:
 
 * Windows: `activate ml-play`
-* macOS and Linux: `source activate myenv`
+* macOS and Linux: `source activate ml-play`
 
 Start jupyter notebook:
 
